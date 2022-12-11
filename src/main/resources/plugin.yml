@@ -1,0 +1,9 @@
+name: Conversational
+version: '${project.version}'
+main: me.kodysimpson.conversational.Conversational
+api-version: 1.19
+depend:
+  - Citizens
+commands:
+  summonnpc:
+    description: fewfwe
